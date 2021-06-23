@@ -1,0 +1,4 @@
+Weather Stats for - SELANGOR  || 23 Jun 2021 | 06:50:59 PM,Current temperature is: 31.58 deg C,Current weather desc  :few clouds,Current Humidity      :52,Current wind speed    :4.47,
+Weather Stats for - IPOH  || 23 Jun 2021 | 06:51:25 PM,Current temperature is: 29.96 deg C,Current weather desc  :scattered clouds,Current Humidity      :74,Current wind speed    :3.13
+Weather Stats for - MUMBAI  || 23 Jun 2021 | 06:54:08 PM,Current temperature is: 31.99 deg C,Current weather desc  :smoke,Current Humidity      :70,Current wind speed    :4.12,
+Weather Stats for - RANCHI  || 23 Jun 2021 | 06:54:14 PM,Current temperature is: 27.06 deg C,Current weather desc  :broken clouds,Current Humidity      :83,Current wind speed    :3.09,
